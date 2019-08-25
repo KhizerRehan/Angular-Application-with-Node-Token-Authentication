@@ -1,0 +1,30 @@
+{
+  "name": "angular-app-with-node",
+  "version": "1.0.0",
+  "description": "Token authentication ",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhizerRehan/Angular-Application-with-Node-Token-Authentication.git"
+  },
+  "keywords": [
+    "angular",
+    "node"
+  ],
+  "author": "khizerrehan92@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KhizerRehan/Angular-Application-with-Node-Token-Authentication/issues"
+  },
+  "homepage": "https://github.com/KhizerRehan/Angular-Application-with-Node-Token-Authentication#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "1.19.1"
+  }
+}
